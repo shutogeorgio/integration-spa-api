@@ -1,6 +1,6 @@
-# test
+# Porpose
 
-> It's the test of the nuxt
+> It is for the test of Nuxt App in the basis of Vue
 
 ## Build Setup
 

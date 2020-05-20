@@ -1,4 +1,4 @@
-# Porpose
+# Purpose
 
 > It is for the test of Nuxt App in the basis of Vue
 
